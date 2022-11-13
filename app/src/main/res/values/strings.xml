@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--memasukkan data yang akan di tampilkan pada aplikasi-->
+<resources>
+    <string name="app_name">Bakpia Khas Yogyakarta</string>
+    <string name="pesan_bakpia">Mau Pesan berapa?</string>
+    <string name="satu_kotak">1 Kotak</string>
+    <string name="enam_kotak">6 Kotak</string>
+    <string name="duabelas_kotak">12 Kotak</string>
+    <string name="pilih_rasa">Pilih Varian Rasa</string>
+    <string name="vanilla">kacang Ijo</string>
+    <string name="chocolate">Coklat</string>
+    <string name="red_velvet">Keju</string>
+    <string name="salted_caramel">Kacang Merah</string>
+    <string name="coffee">Greentea</string>
+    <string name="special_flavor">Request Rasa Lainnya..</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Pilih Tanggal Pengambilan</string>
+    <string name="order_summary">Detail Pesanan</string>
+    <string name="send">Pesan Sekarang!</string>
+    <string name="quantity">Jumlah Pesanan</string>
+    <string name="flavor">Varian Rasa</string>
+    <string name="pickup_date">Tanggal Pengambilan</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">Quantity: %1$s cupcakes \n Flavor: %2$s \nPickup date: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+</resources>
